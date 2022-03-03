@@ -9,4 +9,4 @@ str2 = input("Enter the string 2 : ")
 if isAnagram(str1,str2):
     print("yes")
 else:
-    print("Strings are not anagram")
+    print("No")
